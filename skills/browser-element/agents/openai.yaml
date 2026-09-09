@@ -1,0 +1,7 @@
+interface:
+  display_name: "Browser Element"
+  short_description: "Read selected VS Code browser elements"
+  default_prompt: "Use $browser-element to read my currently selected rendered HTML elements and apply the requested change."
+
+policy:
+  allow_implicit_invocation: false
